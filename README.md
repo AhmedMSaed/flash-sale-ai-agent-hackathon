@@ -2,9 +2,38 @@
 
 > **Flash builds brand context, not disconnected posts.**
 
+### 🚀 [Open Live Demo](https://ahmedmsaed.github.io/flash-sale-ai-agent-hackathon/)
+
+**WhatsApp-first • Multi-Brand • Human-in-the-loop • Real controlled publishing**
+
 Flash Sale AI Agent is a WhatsApp-first AI marketing agent for SMEs and marketing teams. It maintains an independent persistent context for each Brand and uses approved Brand information across recurring marketing work, while keeping human review and final decisions in control.
 
 This repository is a **Public Hackathon Demo Client**, not the source code of the commercial Flash Production Agent. The live agent runs privately in Production; proprietary orchestration, prompts, state handling, data models, integrations, and other implementation details are intentionally excluded.
+
+## 🚀 Live Reviewer Demo
+
+**Open the Flash Hackathon Demo:**
+
+👉 https://ahmedmsaed.github.io/flash-sale-ai-agent-hackathon/
+
+From the demo page, the reviewer can:
+
+- launch the live Flash agent directly on WhatsApp;
+- scan the WhatsApp QR code;
+- start the conversation with `ابدأ`;
+- review the core Hackathon impact and scope.
+
+**Direct WhatsApp entry:**
+
+👉 https://wa.me/20453228108?text=%D8%A7%D8%A8%D8%AF%D8%A3
+
+**Demo Video:**
+
+👉 https://youtube.com/shorts/y2kzqVJ3VrM?feature=share
+
+Arabic entry message: `ابدأ`
+
+No installation, API keys, deployment, or configuration is required.
 
 ## Why this matters to SMEs
 
@@ -93,13 +122,26 @@ Public self-service connection of arbitrary external customer Facebook Pages is 
 
 ## Quick Start for Judges
 
-1. Open `demo/index.html` in a browser.
-2. Select **Launch Flash on WhatsApp**, or scan the public QR code.
-3. WhatsApp opens the public Flash entry with `ابدأ` prefilled.
-4. Send the message and interact directly with the live Flash Production Agent.
-5. Use the README, demo video, and impact slides for bounded evidence such as controlled Facebook publishing where needed.
+1. Open the **Live Hackathon Demo**:  
+   https://ahmedmsaed.github.io/flash-sale-ai-agent-hackathon/
 
-No Meta configuration, Google configuration, database setup, API keys, or backend deployment is required from the judge.
+2. Select **Launch Flash on WhatsApp**, or scan the displayed QR code.
+
+3. WhatsApp opens the public Flash entry with `ابدأ` prefilled.
+
+4. Send the message and interact directly with the live Flash Production Agent.
+
+5. Watch the **Demo Video** for the complete demonstrated Brand-to-Facebook flow:  
+   https://youtube.com/shorts/y2kzqVJ3VrM?feature=share
+
+No Meta configuration, Google configuration, database setup, API keys,
+backend deployment, or local installation is required from the judge.
+
+## Reviewer Links
+
+- **Live Demo:** https://ahmedmsaed.github.io/flash-sale-ai-agent-hackathon/
+- **Live WhatsApp Agent:** https://wa.me/20453228108?text=%D8%A7%D8%A8%D8%AF%D8%A3
+- **Demo Video:** https://youtube.com/shorts/y2kzqVJ3VrM?feature=share
 
 ## Public / private boundary
 
