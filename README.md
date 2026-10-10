@@ -141,7 +141,7 @@ backend deployment, or local installation is required from the judge.
 
 - **Live Demo:** https://ahmedmsaed.github.io/flash-sale-ai-agent-hackathon/
 - **Live WhatsApp Agent:** https://wa.me/20453228108?text=%D8%A7%D8%A8%D8%AF%D8%A3
-- **Demo Video:** https://youtube.com/shorts/y2kzqVJ3VrM?feature=share
+- **Demo Video:** https://youtube.com/shorts/8yG7PTSpxyA?feature=share
 
 ## Public / private boundary
 
