@@ -29,7 +29,7 @@ From the demo page, the reviewer can:
 
 **Demo Video:**
 
-👉 https://youtube.com/shorts/y2kzqVJ3VrM?feature=share
+👉 https://youtube.com/shorts/8yG7PTSpxyA?feature=share 
 
 Arabic entry message: `ابدأ`
 
